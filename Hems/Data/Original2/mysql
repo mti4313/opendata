@@ -1,0 +1,27 @@
+スクリプトは 2017年07月30日 15時18分06秒
+ に開始しました]0;/cygdrive/c/Users/itree/Documents/Contest/Hems/Data/Original2
+[32mitree@LAPTOP-U71SEOAT [33m/cygdrive/c/Users/itree/Documents/Contest/Hems/Data/Original2[0m
+$ mysgl[K[Kqld_safe
+/usr/bin/mysqld_safe: 行 617: my_print_defaults: コマンドが見つかりません
+/usr/bin/mysqld_safe: 行 626: my_print_defaults: コマンドが見つかりません
+170730 15:18:20 mysqld_safe Logging to '/var/lib/mysql/LAPTOP-U71SEOAT.err'.
+touch: '/var/lib/mysql/LAPTOP-U71SEOAT.err' に touch できません: No such file or directory
+chmod: '/var/lib/mysql/LAPTOP-U71SEOAT.err' にアクセスできません: No such file or directory
+]0;/cygdrive/c/Users/itree/Documents/Contest/Hems/Data/Original2
+[32mitree@LAPTOP-U71SEOAT [33m/cygdrive/c/Users/itree/Documents/Contest/Hems/Data/Original2[0m
+$ mysg[Kw[Kqld_safe --usedr[K[Kr=matsui
+/usr/bin/mysqld_safe: 行 617: my_print_defaults: コマンドが見つかりません
+/usr/bin/mysqld_safe: 行 626: my_print_defaults: コマンドが見つかりません
+170730 15:18:38 mysqld_safe Logging to '/var/lib/mysql/LAPTOP-U71SEOAT.err'.
+touch: '/var/lib/mysql/LAPTOP-U71SEOAT.err' に touch できません: No such file or directory
+chmod: '/var/lib/mysql/LAPTOP-U71SEOAT.err' にアクセスできません: No such file or directory
+]0;/cygdrive/c/Users/itree/Documents/Contest/Hems/Data/Original2
+[32mitree@LAPTOP-U71SEOAT [33m/cygdrive/c/Users/itree/Documents/Contest/Hems/Data/Original2[0m
+$ clear
+[3J[H[2J]0;/cygdrive/c/Users/itree/Documents/Contest/Hems/Data/Original2
+[32mitree@LAPTOP-U71SEOAT [33m/cygdrive/c/Users/itree/Documents/Contest/Hems/Data/Original2[0m
+$ exit4[K
+exit
+
+スクリプトは 2017年07月30日 15時20分21秒
+ に終了しました
